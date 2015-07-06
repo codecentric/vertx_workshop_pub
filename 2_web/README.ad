@@ -1,0 +1,16 @@
+LocalSessionStore
+TemplateHandler
+MVELTemplateEngine
+StaticHandler
+CookieHandler
+ClusteredSessionStore
+
+/match/path/wildcard/*
+/my/path/:pathparam1/:pathparama1/
+routingContext.request().getParam("pathparam1");
+.*foo
+
+routingContext.next();
+route.failureHandler
+mainRouter.mountSubRouter("/productsAPI", restAPI)
+
