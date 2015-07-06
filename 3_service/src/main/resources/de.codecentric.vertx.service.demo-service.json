@@ -1,0 +1,10 @@
+{
+  "main": "de.codecentric.vertx.service.demo.DemoVerticle",
+  "options": {
+    "config" : {
+      "foo": "bar"
+    },
+    "worker": false,
+    "isolationGroup": "mygroup"
+  }
+}
