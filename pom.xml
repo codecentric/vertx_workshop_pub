@@ -18,8 +18,8 @@
         <module>1_intro</module>
         <module>2_web</module>
         <module>3_service</module>
-        <!-- module>4_serviceproxy</module>
+        <module>4_serviceproxy</module>
         <module>5_eventbus</module>
-        <module>6_eventbus_done</module -->
+        <!-- module>6_eventbus_done</module -->
     </modules>
 </project>
